@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Danilo;Leon;5;8
+Marco;Auelio;20;20
+Vinicio;Coentrao;13;1
